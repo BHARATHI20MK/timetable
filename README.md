@@ -115,9 +115,12 @@ Execute the program
     <td align="centre">Python and linear algebra (PLA)</td>
 </tr>
 </table>
-
+```
   
 
 # OUPUT
 
 ![output](https://github.com/BHARATHI20MK/timetable/assets/147474125/2688fe9c-51f2-4f2f-a8a1-11c68e3c0b87)
+
+# Result
+The program is executed successfully.
